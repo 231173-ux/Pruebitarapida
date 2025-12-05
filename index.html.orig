@@ -7,9 +7,11 @@
 </head>
 <body>
 <div class="container">
-    
-    <h1>Sistema de Reservas de de Canchas de Tenis por la mañana y Tarde</h1>
-    
+<<<<<<< HEAD
+    <h1>Sistema de Reservas de Canchas de Tenis por la mañana desde Alexanderp</h1>
+=======
+    <h1>Sistema de Reservas de Canchas de Tenis Editado desde el main</h1>
+>>>>>>> main
 
     <form>
         <div class="form-group">
